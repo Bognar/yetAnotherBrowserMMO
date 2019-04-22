@@ -1,3 +1,27 @@
 body {
     background-image: url("../src/assets/spacebackground.jpg");
 }
+#write {
+    color: #ffffff;
+    padding: 5px;
+}
+.menuorder {
+    float: left;
+    height: 35px;
+    width: 49%;
+    display: block;
+    color: #ffffff;
+}
+#menupart {
+    min-width: 50px;
+    height: 15px;
+    padding-left: 10px;
+    float: right;
+    text-transform: uppercase;
+        
+}
+.beforemenupart {
+    width:49%;
+    float: right;
+    text-align: right;
+}
